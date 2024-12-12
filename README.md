@@ -30,5 +30,6 @@ boost lib 공식 doc 보다 단순하게 작동하는 구현 예제.
 
 ## 참고 자료
 
+* 따배씨++ (홍정모 - 인프런)
 * https://www.boost.org/doc/libs/1_86_0/doc/html/boost_asio/examples.html
 * https://theboostcpplibraries.com/boost.asio-io-services-and-io-objects
